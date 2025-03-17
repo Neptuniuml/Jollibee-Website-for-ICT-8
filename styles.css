@@ -1,0 +1,326 @@
+.tres{
+    background-size: 100%;
+    background-position-y: 160px;
+}
+.rep{
+    position: relative;
+    top: -110px;
+}
+.rtq{
+    position: relative;
+    left: 300px;
+}
+.rex{
+    color: red;
+    border-radius: 13px;
+    height: 90px;
+    width: 250px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #fff;
+    position: relative;
+    top: 94px;
+    left: 40px;
+}
+.rax{
+    color: red;
+    border-radius: 13px;
+    height: 90px;
+    width: 250px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #fff;
+    position: relative;
+    top: 290px;
+    left: 900px;
+}
+.tyu{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: left;
+    border: #ff0000;
+    border-style: solid;
+    background-color: #ff0000;
+    color: #ffffff;
+    font-weight: 600f;
+    position: relative;
+    top: 200px;
+}
+h6{
+    font-size: 20px;
+}
+.tyt{
+    position: relative;
+    left: 700px;
+    bottom: 100px;
+    font-size: 50px;
+}
+body{
+    background-color: #f7f7f7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position-x: center;
+    background-position-y: 100px;
+}
+p{
+    position: relative;
+    left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 25px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.rtc{
+    height: 100%;
+    width: 180px;
+    position: absolute;
+    background-color: #f3f3f3;
+    transition: 0.5s ease;
+}
+h1{
+    color: red;
+    font-weight: 800;
+    text-align: center;
+    padding: 10px 0;
+    padding-right: 30px;
+    pointer-events: none;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+form{
+    font-size: 50px;
+    position: relative;
+    top: 80px;
+    left: 200px;
+    color: #ff0000;
+}
+h3{
+    font-size: 50px;
+    position: relative;
+    left: -180px;
+    top: -40px;
+    color: #ff0000;
+}
+h4{
+    font-size: 20px;
+    position: relative;
+    top: 300px;
+}
+.terc{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: left;
+    border: #ff0000;
+    border-style: solid;
+    background-color: #ff0000;
+    color: #ffffff;
+    font-weight: 600f;
+}
+.vert{
+    border: #202020;
+    border-radius: 30px;
+    border-style: solid;
+    position: relative;
+    top: 90px;
+    left: 310px;
+    height: 600px;
+    width: 1000px;
+    background-color: #f3f3f3;
+}
+ul li{
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 15px;
+}
+ul li a{
+    color: #011a41;
+    font-weight: 500;
+    padding: 5px 0;
+    display: block;
+    text-transform: capitalize;
+    text-decoration: none;
+    transition: 0.2s ease-out;
+}
+button{
+    color: red;
+    border-radius: 13px;
+    height: 90px;
+    width: 250px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #fff;
+    position: relative;
+    left: 200px;
+}
+button:hover{
+    border: #8b8b8b;
+    border-radius: 20px;
+    border-style: solid;
+}
+header{
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+footer{
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+nav{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    background: red;
+    height: 80px;
+    width: 100%;
+}
+.pics{
+    display:inline-block;
+    vertical-align: right;
+    border: #faab43;
+    border-width: 4px;
+    border-radius: 20px;
+    border-style: solid;
+    margin: 15px;
+    width: 300px;
+    align-items: right;
+    position: relative;
+    left: 225px;
+}
+.pics .product{
+    padding: 5px;
+    text-align: center;
+}
+.pics:hover{
+    border: #a17d04;
+    border-radius: 25px;
+    border-style: solid;
+}
+.pics img{
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 3/3;
+    object-fit: contain;
+}
+.arr{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    border-top: 3px solid #202020;
+    border-left: 3px solid #202020;
+    transform: rotate(135deg);
+    left: 158px;
+    top: 108px;
+}
+.ar{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    border-top: 3px solid #202020;
+    border-left: 3px solid #202020;
+    transform: rotate(135deg);
+    left: 158px;
+    top: 171px;
+}
+.ac{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    border-top: 3px solid #202020;
+    border-left: 3px solid #202020;
+    transform: rotate(135deg);
+    left: 158px;
+    top: 235px;
+}
+.arrt{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    border-top: 3px solid #202020;
+    border-left: 3px solid #202020;
+    transform: rotate(135deg);
+    left: 158px;
+    top: 298px;
+}
+.art{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    border-top: 3px solid #202020;
+    border-left: 3px solid #202020;
+    transform: rotate(135deg);
+    left: 158px;
+    top: 361px;
+}
+.at{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    border-top: 3px solid #202020;
+    border-left: 3px solid #202020;
+    transform: rotate(135deg);
+    left: 158px;
+    top: 435px;
+}
+.att{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    border-top: 3px solid #202020;
+    border-left: 3px solid #202020;
+    transform: rotate(135deg);
+    left: 158px;
+    top: 511px;
+}
+.ad{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    border-top: 3px solid #202020;
+    border-left: 3px solid #202020;
+    transform: rotate(135deg);
+    left: 158px;
+    top: 572px;
+}
+.ard{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    border-top: 3px solid #202020;
+    border-left: 3px solid #202020;
+    transform: rotate(135deg);
+    left: 158px;
+    top: 636px;
+}
+.ark{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    border-top: 3px solid #202020;
+    border-left: 3px solid #202020;
+    transform: rotate(135deg);
+    left: 158px;
+    top: 698px;
+}
+.arc{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    border-top: 3px solid #202020;
+    border-left: 3px solid #202020;
+    transform: rotate(135deg);
+    left: 158px;
+    top: 762px;
+}
+.res{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+}
